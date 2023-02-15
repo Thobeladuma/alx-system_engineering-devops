@@ -33,3 +33,16 @@
 
 15 - Count that word : Display the number of lines that contains the pattern "bin" in the file.
 
+16 - Whats next? : Display lines containing the pattern root and 3 lines.
+
+17 - I hate bins : Display all the lines in the file that dont have bin pattern.
+
+18 - Letters only please : Display all lines of the line starting with a letter.
+
+19 - replace all characters A and C from input to Z and e respectively.
+
+20 - script that removes all the letters c and C from input.
+
+21 - esreverR :script that reverse its input
+
+22 - DJ Cut Killer : script that displays all users and their home directories, sorted by users.
