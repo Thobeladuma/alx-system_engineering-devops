@@ -8,3 +8,7 @@
 2 - Let's display a file : displaying the content of the file
 
 3 - what is 2? : Display the content of two files.
+
+4 - Ladt lines of a file : Display the last 10 lines of file.
+
+
